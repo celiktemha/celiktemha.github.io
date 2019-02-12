@@ -30,7 +30,7 @@ version:          2.1.0
 
 encoding:         utf-8
 github:
-  repo:           https://github.com/celiktemha
+  repo:           https://github.com/celiktemha/celiktemha.github.io
 
 kramdown:
  input: GFM
