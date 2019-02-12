@@ -18,6 +18,7 @@ title:            Ahmet Çelik
 description:      'Everything is under control'
 url:              http://celiktemha.github.io
 baseurl:          /
+styleBaseUrl:     http://celiktemha.github.io/
 
 author:
   name:           'Ahmet Çelik'
