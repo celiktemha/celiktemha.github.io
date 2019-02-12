@@ -1,5 +1,5 @@
 # Gems
-gems:
+plugings:
   - jekyll-paginate
   - jekyll-gist
   - redcarpet
